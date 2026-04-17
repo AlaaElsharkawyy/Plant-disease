@@ -33,23 +33,24 @@ The dataset contains images of plant leaves categorized as:
 
 ## 📁 Project Structure
 
-
+```
 plant-disease-detection/
 │
 ├── app/
-│ └── planet_app.py # Streamlit app
+│   └── planet_app.py
 │
 ├── model/
-│ ├── planet_model.py # Model architecture
-│ └── model.pth # Trained weights
+│   ├── planet_model.py
+│   └── model.pth
 │
 ├── training/
-│ └── train.py # Training script
+│   └── train.py
 │
-├── requirements.txt # Dependencies
+├── data/
+├── requirements.txt
 ├── .gitignore
 └── README.md
-
+```
 ------
 
 ## 🚀 Demo
@@ -61,4 +62,5 @@ plant-disease-detection/
 
 ```bash
 pip install -r requirements.txt
+
 
