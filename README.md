@@ -50,9 +50,19 @@ plant-disease-detection/
 ├── .gitignore
 └── README.md
 
+------
+
+## 🚀 Demo
+
+![Demo](Demo.gif)
 ---
 
 ## ⚙️ Installation
 
 ```bash
 pip install -r requirements.txt
+
+
+
+
+
