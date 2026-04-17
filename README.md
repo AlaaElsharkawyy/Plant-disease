@@ -62,4 +62,3 @@ plant-disease-detection/
 ```bash
 pip install -r requirements.txt
 
-
