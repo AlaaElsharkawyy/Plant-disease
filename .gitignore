@@ -1,8 +1,25 @@
+# Environment
 .venv/
+
+# Python cache
 __pycache__/
-dataset_split/
-plantvillage-dataset.zip
-*.pth
-*.zip
+*.pyc
+
+# Jupyter
 .ipynb_checkpoints/
+
+# Dataset folders (important)
+data/
+dataset_split/
+
+# Zipped datasets
+*.zip
+plantvillage-dataset.zip
+
+# Model files (optional if big)
+*.pth
+
+# Streamlit cache
 .streamlit/
+
+planet/

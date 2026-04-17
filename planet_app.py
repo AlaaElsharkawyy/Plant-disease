@@ -4,7 +4,7 @@ import torch.nn as nn
 from torchvision import transforms, models
 from PIL import Image
 import torch.nn.functional as F
-
+#streamlit run planet_app.py
 # -------------------------
 # 🎨 CUSTOM UI + CSS
 # -------------------------

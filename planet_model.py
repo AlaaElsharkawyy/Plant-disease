@@ -1,4 +1,9 @@
 import sys
+
+
+
+import torch.nn as nn
+from torchvision import models
 print(sys.executable)
 import torch
 
@@ -14,7 +19,12 @@ import torch
 import torch.nn as nn
 from PIL import Image
 from torch.utils.data import Dataset, DataLoader
-from torchvision import transforms, models Preprocessing + Transformations
+#from torchvision import transforms, models Preprocessing + Transformations
+from torchvision import transforms, models  # Preprocessing + Transformations
+
+
+
+from torchvision import transforms
 
 transform_train = transforms.Compose([
     transforms.Resize((224, 224)),

@@ -55,14 +55,11 @@ plant-disease-detection/
 ## 🚀 Demo
 
 ![Demo](Demo.gif)
----
+
 
 ## ⚙️ Installation
 
 ```bash
 pip install -r requirements.txt
-
-
-
 
 
