@@ -1,41 +1,4 @@
-# 🌿 Plant Disease Detection using Deep Learning
 
-A deep learning project that detects plant type and disease from leaf images using PyTorch and a multi-task ResNet18 model, deployed with Streamlit.
-
----
-
-## 🚀 Project Features
-- Classifies plant type 🌱  
-- Detects plant disease 🦠  
-- Built with PyTorch + ResNet18  
-- Web app using Streamlit  
-- Image preprocessing and augmentation  
-
----
-
-## 🧠 Model Architecture
-- Backbone: ResNet18 (pretrained)
-- Feature extraction layer: 512 → 256
-- Two output heads:
-  - Plant classification head 🌱
-  - Disease classification head 🦠
-
----
-
-## 📂 Dataset
-The dataset contains images of plant leaves categorized as:
-
-- Apple, Tomato, Corn, Grape, etc.
-- Each plant has different diseases + healthy class
-
----
-
-## 📁 Project Structure
-تمام 👌 أنتِ قريبة جدًا من الشكل الصح، بس فيه شوية أخطاء تنسيق في Markdown خلت الشكل يبوز.
-
-خلّيني أظبطهولك نسخة نظيفة 100% copy-paste 👇
-
-✅ 🔥 النسخة المصححة
 # 🌿 Plant Disease Detection using Deep Learning
 
 A deep learning project that detects plant type and disease from leaf images using PyTorch and a multi-task ResNet18 model, deployed with Streamlit.
